@@ -142,7 +142,7 @@
           >
         </div>
         <v-card-title dir="rtl" class="fucking-building">
-          تجهیزات
+          تجهیزات دیوث
         </v-card-title>
 
         <v-card-text>
