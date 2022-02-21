@@ -48,6 +48,7 @@
     </v-menu>
   </div>
       <div :style="`width: ${fasele}px`"></div>
+     
       <v-card v-ripple width="20px" height="20px" rounded="pill"> </v-card>
       <div v-ripple style="display: flex">
       <div style="width: 10px"></div>
@@ -142,7 +143,7 @@
           >
         </div>
         <v-card-title dir="rtl" class="fucking-building">
-          تجهیزات دیوث
+          تجهیزات اموزشی
         </v-card-title>
 
         <v-card-text>
